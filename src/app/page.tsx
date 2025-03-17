@@ -1,0 +1,1 @@
+Okay, I need the project tracker in XML format first, so I can generate the code for `src/app/page.tsx` in the context of the entire project. Please provide the complete validated tracker.
